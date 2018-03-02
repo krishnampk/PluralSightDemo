@@ -1,0 +1,16 @@
+C:\workarea\Learn\WPF\PluralSightPrismDemoSolution\Src\Modules\ModuleA\bin\Debug\ModuleA.dll
+C:\workarea\Learn\WPF\PluralSightPrismDemoSolution\Src\Modules\ModuleA\bin\Debug\ModuleA.pdb
+C:\workarea\Learn\WPF\PluralSightPrismDemoSolution\Src\Modules\ModuleA\bin\Debug\Microsoft.Practices.Prism.dll
+C:\workarea\Learn\WPF\PluralSightPrismDemoSolution\Src\Modules\ModuleA\bin\Debug\Microsoft.Practices.Unity.dll
+C:\workarea\Learn\WPF\PluralSightPrismDemoSolution\Src\Modules\ModuleA\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\workarea\Learn\WPF\PluralSightPrismDemoSolution\Src\Modules\ModuleA\obj\Debug\ModuleA.csprojResolveAssemblyReference.cache
+C:\workarea\Learn\WPF\PluralSightPrismDemoSolution\Src\Modules\ModuleA\obj\Debug\ContentView.baml
+C:\workarea\Learn\WPF\PluralSightPrismDemoSolution\Src\Modules\ModuleA\obj\Debug\ContentView.g.cs
+C:\workarea\Learn\WPF\PluralSightPrismDemoSolution\Src\Modules\ModuleA\obj\Debug\ModuleA_MarkupCompile.cache
+C:\workarea\Learn\WPF\PluralSightPrismDemoSolution\Src\Modules\ModuleA\obj\Debug\ModuleA.g.resources
+C:\workarea\Learn\WPF\PluralSightPrismDemoSolution\Src\Modules\ModuleA\obj\Debug\ModuleA.Properties.Resources.resources
+C:\workarea\Learn\WPF\PluralSightPrismDemoSolution\Src\Modules\ModuleA\obj\Debug\ModuleA.csproj.GenerateResource.Cache
+C:\workarea\Learn\WPF\PluralSightPrismDemoSolution\Src\Modules\ModuleA\obj\Debug\ModuleA.dll
+C:\workarea\Learn\WPF\PluralSightPrismDemoSolution\Src\Modules\ModuleA\obj\Debug\ModuleA.pdb
+C:\workarea\Learn\WPF\PluralSightPrismDemoSolution\Src\Modules\ModuleA\bin\Debug\PluralsightPrismDemo.Infrastructure.dll
+C:\workarea\Learn\WPF\PluralSightPrismDemoSolution\Src\Modules\ModuleA\bin\Debug\PluralsightPrismDemo.Infrastructure.pdb

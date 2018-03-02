@@ -1,0 +1,7 @@
+C:\workarea\Learn\WPF\PluralSightPrismDemoSolution\ModuleB\bin\Debug\ModuleB.dll
+C:\workarea\Learn\WPF\PluralSightPrismDemoSolution\ModuleB\bin\Debug\ModuleB.pdb
+C:\workarea\Learn\WPF\PluralSightPrismDemoSolution\ModuleB\obj\Debug\ModuleB.csprojResolveAssemblyReference.cache
+C:\workarea\Learn\WPF\PluralSightPrismDemoSolution\ModuleB\obj\Debug\ModuleB.Properties.Resources.resources
+C:\workarea\Learn\WPF\PluralSightPrismDemoSolution\ModuleB\obj\Debug\ModuleB.csproj.GenerateResource.Cache
+C:\workarea\Learn\WPF\PluralSightPrismDemoSolution\ModuleB\obj\Debug\ModuleB.dll
+C:\workarea\Learn\WPF\PluralSightPrismDemoSolution\ModuleB\obj\Debug\ModuleB.pdb
